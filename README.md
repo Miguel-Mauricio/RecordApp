@@ -1,0 +1,1 @@
+This small project was a way to train my C# and Visual Studio abilities and knowladge. The goal of the app is to write whatever the user writes to a .txt file, and before the real program starts the user has to guess in 3 tries the password otherwise the file is deleted. 
