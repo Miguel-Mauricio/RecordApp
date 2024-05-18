@@ -7,7 +7,9 @@ Console.WriteLine("Welcome to your personal record App.");
 
 Console.WriteLine(" ");
 
- var recordApp = new RecordApp();
+Console.WriteLine("Please enter password:");
+
+var recordApp = new RecordApp();
 var passWordChecker = new PassWordCheck();
 
 try

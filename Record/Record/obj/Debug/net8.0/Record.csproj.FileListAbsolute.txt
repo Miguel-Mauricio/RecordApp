@@ -12,3 +12,4 @@ C:\Users\mpmau\Desktop\AppCreation\Record\Record\obj\Debug\net8.0\refint\Record.
 C:\Users\mpmau\Desktop\AppCreation\Record\Record\obj\Debug\net8.0\Record.pdb
 C:\Users\mpmau\Desktop\AppCreation\Record\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
 C:\Users\mpmau\Desktop\AppCreation\Record\Record\obj\Debug\net8.0\ref\Record.dll
+C:\Users\mpmau\Desktop\AppCreation\Record\Record\obj\Debug\net8.0\Record.sourcelink.json
